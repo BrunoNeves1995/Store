@@ -1,0 +1,15 @@
+C:\C#\Store\Store.Domain\bin\Debug\net7.0\Store.Domain.deps.json
+C:\C#\Store\Store.Domain\bin\Debug\net7.0\Store.Domain.dll
+C:\C#\Store\Store.Domain\bin\Debug\net7.0\Store.Domain.pdb
+C:\C#\Store\Store.Domain\bin\Debug\net7.0\Store.Shared.dll
+C:\C#\Store\Store.Domain\bin\Debug\net7.0\Store.Shared.pdb
+C:\C#\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.csproj.AssemblyReference.cache
+C:\C#\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.AssemblyInfoInputs.cache
+C:\C#\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.AssemblyInfo.cs
+C:\C#\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.csproj.CoreCompileInputs.cache
+C:\C#\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.csproj.CopyComplete
+C:\C#\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.dll
+C:\C#\Store\Store.Domain\obj\Debug\net7.0\refint\Store.Domain.dll
+C:\C#\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.pdb
+C:\C#\Store\Store.Domain\obj\Debug\net7.0\ref\Store.Domain.dll
